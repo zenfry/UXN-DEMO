@@ -1,4 +1,4 @@
-#Retro Snake Game for UXNtal
+# Retro Snake Game for UXNtal
 
 This is a retro version of the fame snake. The objective of the game is to move the snake around and eat apples, the apples make the snake's body longer and get more points. It uses the arrow keys to move in different different and the point tracker is in the upper left hand corner. I do warn you that the game does make noise, not pleasant ones but they are noises.
 
